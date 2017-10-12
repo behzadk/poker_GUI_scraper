@@ -8,6 +8,10 @@ The current version has the image scraping techniques in place, next steps are t
 - Seemingly perfect optical character recognition (OCR) of pot size and player stack
 - Imperfect but reproducible OCR of player names
 - Ability to observe multiple tables simultaneously, limited by machines processing power
+- Limited poker math features from integration with Pokerstove library
+
+### Immediate development
+- Writing documentation
 
 ## Future development
 - Integration with SQL database
