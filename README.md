@@ -10,9 +10,6 @@ The current version has the image scraping techniques in place, next steps are t
 - Ability to observe multiple tables simultaneously, limited by machines processing power
 - Limited poker math features from integration with Pokerstove library
 
-### Immediate development
-- Writing documentation
-
 ## Future development
 - Integration with SQL database
 - Development of analytical tools to assess player behaviour on an individual and population scale
